@@ -1,2 +1,2 @@
-#define WIFI_SSID "Dutta"
-#define WIFI_PASS "Kdpdodad@20"
+#define WIFI_SSID "WiFi AP"
+#define WIFI_PASS "12345678"
